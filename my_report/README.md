@@ -15,6 +15,15 @@
 # 1st Deliverable
 <br>***PART 1***
 <br>Για το πρώτο part του πρώτου παραδοτέου ξεκίνησα την πόλη μου με την προσθήκη ενός plane από το GameObjects στην σκηνή μου. Άρχισα να προσθέτω πολλούς μικρούς κύβους από το GameObjects > Cude. Έκανα τις διαφοροποιήσεις προκειμένου να δώσω στα κτήρια το επιθυμητό ύψος σχήμα και μέγεθος πειράζοντας το rotation και το position για τους άξονες x,y,z. Στην συνέχεια για να φτιάξω τα 5 περίεργα κτήρια πήρα διάφορα σχήματα όπως κύβους και κυλίνδρους  και πείραξα τις γωνιές και τις πλευρές τους από το probuilder. Για να δώσω το χρώμα που ήθελα έφτιαξα τα απαραίτητα materials και τα εφάρμοσα στο εκάστοτε κτήριο.Παρακάτω βρίσκονται τα στιγμιότυπα από την πόλη:
+![Screenshot 2023-03-23 120928](https://user-images.githubusercontent.com/101419070/227378800-b33867ff-541b-4232-a513-8fddd51340e7.png)
+![Screenshot 2023-03-23 120943](https://user-images.githubusercontent.com/101419070/227378805-694b2e6a-b3ae-4849-ad6f-fd52efd9a0cb.png)
+![Screenshot 2023-03-23 120952](https://user-images.githubusercontent.com/101419070/227378808-6e024166-8072-4718-814e-33a0eb30b710.png)
+![Screenshot 2023-03-23 121007](https://user-images.githubusercontent.com/101419070/227378814-b7e0d839-deea-42b0-ad6b-e3c7ac0a0f53.png)
+![Screenshot 2023-03-23 121015](https://user-images.githubusercontent.com/101419070/227378816-61fe2344-0df3-42eb-bba8-d71a8a35c9fb.png)
+![Screenshot 2023-03-23 121046](https://user-images.githubusercontent.com/101419070/227378821-93251d48-122d-449d-8f2d-3871698b6f3f.png)
+![Screenshot 2023-03-23 121103](https://user-images.githubusercontent.com/101419070/227378823-7a374ce4-e0a8-4773-b5a6-cefb935a7c30.png)
+
+
 <br>***PART 2***
 <br>Για το δεύτερο part του πρώτου παραδοτέου κατέβασα το unit3 και άνοιξα sci fi scene. Από τον φάκελο prefabs πρόσθεσα έτοιμα props(τα φυτά το αυτοκίνητο το ποδήλατο τις κολόνες κ.α). Έπειτα έφτιαξα την δικια μου πινακίδα και έγραψα πάνω STOP. Πρόσθεσα κόκκινο χρώμα φτιάχνοντας το στα materials.Τέλος έβαλα το ταξί που το έκανα record με την βοήθεια του timeline.Παρακάτω βρίσκονται τα στιγμιότυπα:
 <br>![334278367_6095284147230761_3216163790608230742_n (2)](https://user-images.githubusercontent.com/101419070/226458137-0a6fcdf6-ac6c-4dd6-bbeb-f7a41b0948d7.png)
